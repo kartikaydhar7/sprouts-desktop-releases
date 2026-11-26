@@ -79,8 +79,6 @@ If you work in Sprouts most of the day, the app keeps it one click away, out of 
 2. Open the file you downloaded. Sprouts installs and opens by itself, and you won't need an admin password.
 3. Sign in the way you normally do: Google, Microsoft, your company login or email.
 
-If a blue "Windows protected your PC" box appears, click **More info**, then **Run anyway**.
-
 ### On a Mac
 
 1. Click **Download for Mac** at the top of this page.
