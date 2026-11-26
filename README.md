@@ -10,9 +10,9 @@ Sprouts as an app on your computer, one click from your taskbar or dock.
 
 <a href="https://github.com/kartikaydhar7/sprouts-desktop-releases/releases/latest/download/Sprouts-Setup-Windows.exe"><img src="assets/download-windows.svg" alt="Download for Windows" height="60"></a>
 &nbsp;
-<img src="assets/mac-coming-soon.svg" alt="Mac version coming soon" height="60">
+<a href="https://github.com/kartikaydhar7/sprouts-desktop-releases/releases/latest/download/Sprouts-macOS.dmg"><img src="assets/download-mac.svg" alt="Download for Mac" height="60"></a>
 
-<sub>Works on Windows 10 and 11 · Same login as Sprouts on the web</sub>
+<sub>Works on Windows 10 and 11, and on Macs with Intel or Apple chips · Same login as Sprouts on the web</sub>
 
 </div>
 
@@ -83,7 +83,9 @@ If a blue "Windows protected your PC" box appears, click **More info**, then **R
 
 ### On a Mac
 
-The Mac version is on its way. Its download button will appear at the top of this page.
+1. Click **Download for Mac** at the top of this page.
+2. Open the file you downloaded and drag Sprouts into your Applications folder.
+3. Open Sprouts from Applications and sign in the way you normally do.
 
 ## Questions
 
