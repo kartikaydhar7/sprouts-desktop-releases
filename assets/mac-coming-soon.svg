@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="284" height="60" viewBox="0 0 284 60" role="img" aria-label="Mac version coming soon">
+  <rect x="0.5" y="0.5" width="283" height="59" rx="12" fill="#F1F5F9" stroke="#CBD5E1" stroke-dasharray="4 3"/>
+  <g fill="none" stroke="#64748B" stroke-width="1.8" stroke-linejoin="round" transform="translate(24 20)">
+    <rect x="2" y="1" width="20" height="13" rx="1.5"/>
+    <path d="M0 18h24"/>
+  </g>
+  <text x="60" y="37" fill="#475569" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="17" font-weight="600">Mac version coming soon</text>
+</svg>
